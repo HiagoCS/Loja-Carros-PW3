@@ -35,6 +35,7 @@ $routes->get('/', 'Home::index');
 $routes->get('companyinfo', 'Home::companyinfo');
 $routes->get('contact', 'Home::contact');
 $routes->get('login', 'Home::login');
+$routes->get('carReg', 'Home::carReg');
 
 /*
  * --------------------------------------------------------------------

@@ -1,5 +1,5 @@
 <?=$this->include("default_header", array('title' => $title));?>
 	<div id="content">
-		<h4>INDEX</h4>
+		<a class="btn btn-primary" type="button" href="./carReg">Cadastrar Veiculos</a>
 	</div>
 <?=$this->include("default_footer", array('title' => $title));?>
