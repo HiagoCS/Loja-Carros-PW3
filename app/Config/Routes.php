@@ -34,8 +34,8 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 $routes->get('companyinfo', 'Home::companyinfo');
 $routes->get('contact', 'Home::contact');
-$routes->get('login', 'Home::login');
-$routes->get('sigin', 'Home::sigin');
+$routes->get('loginP', 'Pessoas::login');
+$routes->get('registerP', 'Pessoas::index');
 
 /*
  * --------------------------------------------------------------------

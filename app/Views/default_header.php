@@ -17,9 +17,9 @@
 	<div id="header">
 		<img src="img/Pigeot blacklogo.png" height="120" width="200" style="position: absolute;">
 		<div id="top-header">
-			<a class="top-header-btn" type="button" href="./login">Entrar</a>
+			<a class="top-header-btn" type="button" href="./loginP">Entrar</a>
 			<a class="top-header-btn" >/</a>
-			<a class="top-header-btn" type="button" href="./sigin">Cadastrar</a>
+			<a class="top-header-btn" type="button" href="./registerP">Cadastrar</a>
 		</div>
 		<div id="medium-header">
 			<a class="medium-header-btn"  href="./" type="button">Home</a>

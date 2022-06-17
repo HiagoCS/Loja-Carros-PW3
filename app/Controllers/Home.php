@@ -24,9 +24,5 @@ class Home extends BaseController
         $data['title'] = "Pigeot Ltda";
         return view('home_login', $data);
     }
-    public function sigin()
-    {
-        $data['title'] = "Pigeot Ltda";
-        return view('home_sigin', $data);
-    }
+
 }
